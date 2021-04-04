@@ -18,6 +18,8 @@ $ pip2 install mechanize
 $ git clone https://github.com/mahfuj420/Gamer_Mahfuj
 
 ## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
+
 $ cd Gamer_Mahfuj 
-$chmod +x *
-$python2 The_Gamer
+$ chmod +x *
+$ python2 The_Gamer
+
