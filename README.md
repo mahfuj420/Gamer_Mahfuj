@@ -1,5 +1,5 @@
 # 𖣘❀Gamer_Mahfuj❀𖣘
-
+![received_833045600760209](https://user-images.githubusercontent.com/64296613/113496958-b4d0b180-9520-11eb-92a9-68608baa5a1d.jpeg)
 ## ☠︎︎༒︎𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬༒︎☠︎︎
 
 [★]𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐨𝐦𝐦𝐚𝐧𝐝
@@ -24,6 +24,6 @@ $ chmod +x *
 $ python2 The_Gamer 
 
 ![Screenshot_20210403-234234_Termux](https://user-images.githubusercontent.com/64296613/113496932-7c30d800-9520-11eb-889d-805a6449c387.jpg)
-![received_833045600760209](https://user-images.githubusercontent.com/64296613/113496958-b4d0b180-9520-11eb-92a9-68608baa5a1d.jpeg)
+
 
 
