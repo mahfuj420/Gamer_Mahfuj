@@ -21,7 +21,7 @@ $ git clone https://github.com/mahfuj420/Gamer_Mahfuj
 
 $ cd Gamer_Mahfuj  
 $ chmod +x *  
-$ python2 The_Gamer 
+$ python2 The_Gamer
 
 ![Screenshot_20210403-234234_Termux](https://user-images.githubusercontent.com/64296613/113496932-7c30d800-9520-11eb-889d-805a6449c387.jpg)
 
